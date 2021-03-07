@@ -6,6 +6,6 @@
 
 
 - [General Rule](./General-rules.md) 
-- [README.md Rule]()
+- [README.md Rule](./Template-readme.md)
 - [GitHub]()
 - [Git-flow]()
