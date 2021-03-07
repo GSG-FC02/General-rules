@@ -2,7 +2,7 @@
 
 ## In this repository, you will find rules you should follow in every project you will work on!
 
-***Follow up the notes to read the rules ***
+***Follow up the notes to read the rules***
 
 
 - [General Rule]() 
