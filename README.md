@@ -5,7 +5,7 @@
 ***Follow up the notes to read the rules***
 
 
-- [General Rule]() 
+- [General Rule](./General-rules.md) 
 - [README.md Rule]()
 - [GitHub]()
 - [Git-flow]()
