@@ -18,7 +18,8 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 ---
 
- *Note, At the previous link you will find that, there is a way to create and manage pull requests and branches from github, this way is just for knowldge, and we will not use it during the course.*
+ ### Note:
+ At the previous link you will find that, there is a way to create and manage pull requests and branches from github, this way is just for knowldge, and we will not use it during the course.*
 
 
 
