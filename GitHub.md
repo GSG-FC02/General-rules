@@ -1,3 +1,5 @@
+# Github Usage Guide
+
 ## You’ll learn how to :
 
 * Create and use a repository.
