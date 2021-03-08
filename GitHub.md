@@ -5,16 +5,20 @@
 * Manage Pull Requests.
 
 
-## What is GitHub?
+## What is GitHub ?
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Now, Lets see How to start with GitHub : 
 
 
-## Step 1. Create a Repository : 
+### Click here to see the steps [Steps to start with github](https://guides.github.com/activities/hello-world/).
 
-A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository.
+---
+
+ *Note, At the previous link you will find that, there is a way to create and manage pull requests and branches from github, this way is just for knowldge, and we will not use it during the course.*
+
+
 
 
 
