@@ -12,7 +12,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 ## Now, Lets see How to start with GitHub : 
 
 
-### Click here to see the steps [Steps to start with github](https://guides.github.com/activities/hello-world/).
+### Click here to see the steps :  [Steps to start with github](https://guides.github.com/activities/hello-world/).
 
 ---
 
