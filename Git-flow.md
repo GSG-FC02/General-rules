@@ -15,8 +15,6 @@
 * [Resourse -1- ](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 * [Resourse -2- ](https://guides.github.com/introduction/flow/)
 
-* [Resourse -2- ](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20Workflow%20is%20a%20Git,designed%20around%20the%20project%20release)
-
 
 **For More explainations you can see these links :**
 
