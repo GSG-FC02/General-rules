@@ -7,5 +7,5 @@
 
 - [General Rule](./General-rules.md) 
 - [README.md Rule](./Template-readme.md)
-- [GitHub]()
-- [Git-flow]()
+- [GitHub](./Git-flow.md)
+- [Git-flow](./GitHub.md)
