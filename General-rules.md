@@ -5,6 +5,7 @@
 If you get to set the rules for the project or are working alone, then the most important thing to do is to keep things consistent. Consistency can be applied in all sorts of ways, such as using the same naming conventions for classes, choosing one method of describing color, or maintaining consistent formatting (for example will you use tabs or spaces to indent your code? If spaces, how many spaces?)
 
 >- Having a set of rules you always follow reduces the amount of mental overhead needed when writing CSS, as some of the decisions are already made.
+
 Reference: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing 
  - Use a consistent layout for the whole project.
  
